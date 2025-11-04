@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Frontend
+Frontend<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress)](https://skillicons.dev)
 
-Backend / Database
+Backend / Database<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-Design / UI / UX
+Design / UI / UX<br>
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)
 
-Deployment
+Deployment<br>
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-OS
+OS<br>
 [![My Skills](https://skillicons.dev/icons?i=apple,windows)](https://skillicons.dev)
