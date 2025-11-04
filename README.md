@@ -14,4 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress)](https://skillicons.dev)
+
+Backend / Database
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+Design / UI / UX
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)
+
+Deployment
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
+OS
+[![My Skills](https://skillicons.dev/icons?i=apple,windows)](https://skillicons.dev)
