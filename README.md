@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,sass,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux,mysql,php)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
